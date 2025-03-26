@@ -19,7 +19,16 @@ Medium :
 - Excel
 - React
 
+### Projects 
 
+
+### How to reach me 
+
+
+
+line
+
+#### From Megan Clapinski 
 
 <!--
 **meganclapinski25/meganclapinski25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
