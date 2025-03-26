@@ -1,5 +1,26 @@
 ## Hi there 👋
 
+### 🚀 About me
+I'm a blah blah blah 
+
+
+### 🌐 Connect with Me 
+
+LinkedIn : 
+
+Portfolio : 
+
+Medium : 
+
+### 👾 Tech Stack
+- Python
+- Java
+- SQL
+- Excel
+- React
+
+
+
 <!--
 **meganclapinski25/meganclapinski25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
