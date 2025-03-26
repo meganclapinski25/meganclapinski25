@@ -11,13 +11,7 @@ Portfolio :
 Medium : 
 
 ### 👾 Tech Stack
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=meganclapinski25&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-- Python
-- Java
-- SQL
-- Excel
-- React
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,js,mongodb,mysql,py)](https://skillicons.dev)
 ### Projects 
 
 
