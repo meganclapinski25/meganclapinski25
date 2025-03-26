@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 ### 🚀 About me
-I'm a blah blah blah 
-
-
+I'm an aspiring Data Analyst passionate about transforming complex data into meaningful insights. With a strong foundation in Python, SQL, and statistical analysis, I'm committed to leveraging data to drive strategic decision-making. 
 ### 🌐 Connect with Me 
 
 LinkedIn : 
@@ -25,22 +23,5 @@ Medium :
 ### How to reach me 
 
 
-
-line
-
 #### From Megan Clapinski 
 
-<!--
-**meganclapinski25/meganclapinski25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
