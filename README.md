@@ -11,7 +11,12 @@ Portfolio :
 Medium : 
 
 ### 👾 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,mongodb,mysql,py)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,css,docker,bootstrap,js,mongodb,sql,py,react" />
+  </a>
+</p>
+
 ### Projects 
 
 
