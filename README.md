@@ -22,7 +22,8 @@ Medium :
 </p>
 
 ### Projects 
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=meganclapinski25&repo=Healthcare-Analysis)](https://github.com/meganclapinski/Heathcare-Analysis)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=meganclapinski25&repo=EuroFootballAnalysis)](https://github.com/meganclapinski/EuroFootballAnalysis)
 
 ### How to reach me 
 
