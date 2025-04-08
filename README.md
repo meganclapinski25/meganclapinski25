@@ -8,7 +8,7 @@ I'm an aspiring Data Analyst passionate about transforming complex data into mea
 <p align = "center">
 <a href="https://www.linkedin.com/in/megan-clapinski-67b5622ab/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
-Portfolio : <a href = "https://www.notion.so/Portfolio-1c9f0b114af0808ca9e2fbb6fd257334" target="_blank"><img src = "https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt = "Notion Portfolio"></a>
+<a href = "https://www.notion.so/Portfolio-1c9f0b114af0808ca9e2fbb6fd257334" target="_blank"><img src = "https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt = "Notion Portfolio"></a>
 
 Medium : 
 
