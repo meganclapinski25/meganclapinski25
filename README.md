@@ -9,7 +9,7 @@ I'm an aspiring Data Analyst passionate about transforming complex data into mea
   <tr>
     <td align="center">
       <b><i>Portfolio</i></b><br>
-      <a href="https://www.notion.so/Portfolio-1c9f0b114af0808ca9e2fbb6fd257334">
+      <a href="https://warm-guitar-6ca.notion.site/Portfolio-1c9f0b114af0808ca9e2fbb6fd257334?pvs=4">
         <img src="https://skillicons.dev/icons?i=notion&theme=light" alt="Notion" />
       </a>
     </td>
