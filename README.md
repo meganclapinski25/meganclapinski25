@@ -32,7 +32,7 @@ I'm an aspiring Data Analyst passionate about transforming complex data into mea
 </p>
 
 ### Projects 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=meganclapinski25&repo=movie-picker)](https://github.com/meganclapinski/movie-picker)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=meganclapinski25&repo=workout-AI-gen)](https://github.com/meganclapinski/movie-picker)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=meganclapinski25&repo=EuroFootballAnalysis)](https://github.com/meganclapinski/EuroFootballAnalysis)
 
 ### How to reach me 
