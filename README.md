@@ -30,23 +30,11 @@ My work focuses on **data analysis, visualization, and storytelling**, with hand
 
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,js,react,html,css,git,docker,mongodb,mysql&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,js,react,html,css,git,docker,mongodb,mysql,bootstrap&theme=light" />
 </p>
 
 ---
 
-### 📌 Featured Projects
-<a href="https://github.com/meganclapinski25/mlb-hr-prediction">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=meganclapinski25&repo=mlb-hr-prediction" />
-</a>
-<a href="https://github.com/meganclapinski25/Euro2025_Data_Analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=meganclapinski25&repo=Euro2025_Data_Analysis" />
-</a>
-<a href="https://github.com/meganclapinski25/EuroFootballAnalysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=meganclapinski25&repo=EuroFootballAnalysis" />
-</a>
-
----
 
 ### 📫 Get in Touch
 <p><b>Email:</b> meganclapinski@gmail.com</p>
