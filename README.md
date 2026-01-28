@@ -30,7 +30,7 @@ My work focuses on **data analysis, visualization, and storytelling**, with hand
 
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,js,react,html,css,git,docker,mongodb,mysql,bootstrap&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,js,react,html,css,git,docker,mongodb,bootstrap&theme=light" />
 </p>
 
 ---
