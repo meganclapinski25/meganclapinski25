@@ -2,7 +2,7 @@
 
 # Hi, I'm Megan Clapinski 👋
 
-### Applied Computer Science Student & Aspiring Data Analyst
+### B.S. Applied Computer Science | Data Analyst
 
 *Passionate about turning complex, messy data into clear, actionable insights*
 
@@ -16,9 +16,9 @@
 
 ## About Me
 
-I'm an Applied Computer Science student and early-career **Data Analyst** with a focus on transforming raw data into meaningful stories. My work centers on **data analysis, visualization, and storytelling** — using Python, SQL, and statistical methods to explore real-world datasets, especially in sports analytics.
+I'm a recent graduate with a **Bachelor of Science in Applied Computer Science** and an early-career **Data Analyst** with a focus on transforming raw data into meaningful stories. My work centers on **data analysis, visualization, and storytelling** — using Python, SQL, and statistical methods to explore real-world datasets, especially in sports analytics.
 
-- Studying **Applied Computer Science**
+- 🎓 B.S. in **Applied Computer Science**
 - Passionate about **data analysis and visualization**
 - Love applying data science to **sports analytics**
 - Continuously learning and growing my technical skill set
